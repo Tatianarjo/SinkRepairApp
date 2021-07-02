@@ -1,0 +1,48 @@
+{
+  "plumbers": [],
+  "completions": [],
+  "requests": [
+    {
+      "id": 1,
+      "description": "Aut sint voluptatem fugit eius quas molestiae modi.",
+      "address": "34445 Bianka Ports",
+      "budget": 400,
+      "neededBy": "2021-08-27"
+    },
+    {
+      "description": "Clogged SInk",
+      "address": "1234 Beyonce View",
+      "budget": "50",
+      "neededBy": "2021-06-17",
+      "id": 2
+    },
+    {
+      "description": "Broken floor",
+      "address": "1243",
+      "budget": "50",
+      "neededBy": "2021-06-18",
+      "id": 3
+    },
+    {
+      "description": "Broken knob on door",
+      "address": "128 8th street",
+      "budget": "417.00",
+      "neededBy": "2021-06-25",
+      "id": 4
+    },
+    {
+      "description": "borken door",
+      "address": "1234566 happy street",
+      "budget": "314.00",
+      "neededBy": "2021-06-24",
+      "id": 5
+    },
+    {
+      "description": "AC went out",
+      "address": "123 Unhappy Street",
+      "budget": "4000.00",
+      "neededBy": "2021-06-25",
+      "id": 6
+    }
+  ]
+}
